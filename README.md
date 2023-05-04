@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miserysauce
-- 👀 I’m interested in ... opportunites.
-- 🌱 I’m currently learning ... everything.
+- 👀 I’m interested in ... job opportunites.
+- 🌱 I’m currently learning ... Angular.
 - 💞️ I’m looking to collaborate on ... success.
 - 📫 How to reach me ... here.
 
