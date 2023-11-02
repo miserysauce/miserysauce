@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @miserysauce
 - 👀 I’m interested in ... Back-End Development.
-- 🌱 I’m currently learning ... Java.
-- 💞️ I’m looking to collaborate on ... success.
-- 📫 How to reach me ... linkedin.com/in/aj-turley
+- 🌱 I’m currently learning ... Java and Spring Security.
+- 💞️ I’m looking to collaborate on ... the bugs that keep you up at night.
+- 📫 How to reach me ... connect with me on linkedin!
 
 <!---
 miserysauce/miserysauce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
