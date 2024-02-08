@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miserysauce
 - 👀 I’m interested in ... Back-End Development.
-- 🌱 I’m currently learning ... Java and Spring Security.
+- 🌱 I’m currently learning ... Java, Spring Security and React.
 - 💞️ I’m looking to collaborate on ... the bugs that keep you up at night.
 - 📫 How to reach me ... connect with me on linkedin!
 
